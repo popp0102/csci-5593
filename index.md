@@ -2,5 +2,5 @@
 Name: Jason Poppler  
 Email: jason.poppler@ucdenver.edu  
 
-## Homework 1
+## Literature Report
 <a href='literature_report.pdf'>Report 1</a>
