@@ -9,4 +9,4 @@ Email: jason.poppler@ucdenver.edu
 <a href='https://drive.google.com/open?id=1a3qR-1s5oO1z7UdWWfGI8CqdJKpoPYJ5Y0f3XejtWfY'>Research Presentation</a>
 
 ## Project - Implementation Presentation
-<a href='https://docs.google.com/presentation/d/1jXLIedGZON015YVOcBwzmQWKGhjKZXhF9WFSupzCGGQ'>Research Presentation</a>
+<a href='https://docs.google.com/presentation/d/1jXLIedGZON015YVOcBwzmQWKGhjKZXhF9WFSupzCGGQ'>Implementation Presentation</a>
