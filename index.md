@@ -2,6 +2,14 @@
 Name: Jason Poppler  
 Email: jason.poppler@ucdenver.edu  
 
+## Literature Report
+<a href='report_1.pdf'>Report 1</a>
+
+## Project Presentations
+<a href='https://drive.google.com/open?id=1a3qR-1s5oO1z7UdWWfGI8CqdJKpoPYJ5Y0f3XejtWfY'>Research Presentation</a>
+
+<a href='https://docs.google.com/presentation/d/1jXLIedGZON015YVOcBwzmQWKGhjKZXhF9WFSupzCGGQ'>Implementation Presentation</a>
+
 ## Team 2 Final Project (Ram-Rom)
 For those review this project these links will be needed.
 
@@ -15,12 +23,3 @@ A calendar of work and division of labor can be found here: <a href='https://dri
 
 
 A google directory of References/Presentations/Final Paper/etc can be found here: <a href='https://drive.google.com/drive/folders/1vNzWmhKQWIFzUsYWOIggq5pv5JwF8a1p?usp=sharing'>Google Drive</a>
-
-
-## Literature Report
-<a href='report_1.pdf'>Report 1</a>
-
-## Project Presentations
-<a href='https://drive.google.com/open?id=1a3qR-1s5oO1z7UdWWfGI8CqdJKpoPYJ5Y0f3XejtWfY'>Research Presentation</a>
-
-<a href='https://docs.google.com/presentation/d/1jXLIedGZON015YVOcBwzmQWKGhjKZXhF9WFSupzCGGQ'>Implementation Presentation</a>
