@@ -10,7 +10,7 @@ Email: jason.poppler@ucdenver.edu
 
 <a href='https://docs.google.com/presentation/d/1jXLIedGZON015YVOcBwzmQWKGhjKZXhF9WFSupzCGGQ'>Implementation Presentation</a>
 
-## Review for Final Project
+## Team 2 Final Project (Ram-Rom)
 For those review this project these links will be needed.
 
 The code for the project can be found here: <a href='https://github.com/ram-rom/Final-Project'>Code on Github</a>
